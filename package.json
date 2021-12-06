@@ -1,0 +1,26 @@
+{
+  "name": "hapi-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://subhajit2607@bitbucket.org/subhajit2607/hapi-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/subhajit2607/hapi-learning#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.0",
+    "joi": "^17.4.2",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.3.0",
+    "nodemon": "^2.0.12",
+    "sequelize": "^6.6.5",
+    "webpack": "^5.53.0"
+  }
+}
